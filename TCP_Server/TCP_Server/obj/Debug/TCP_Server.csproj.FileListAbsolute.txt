@@ -1,0 +1,6 @@
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\anton.petuhov\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
